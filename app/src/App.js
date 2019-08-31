@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello Glenna
         </p>
         <a
           className="App-link"
@@ -18,10 +18,9 @@ function App() {
         >
           Learn React
         </a>
-
         <a 
           className="App-link"
-          href="https://cerulean-iguana-839.azurestaticwebsites.net/.auth/login/aad"
+          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=cerulean-iguana-839.azurestaticwebsites.net"
         >
         Log in with Azure AD
         </a>
