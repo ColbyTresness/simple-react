@@ -18,12 +18,6 @@ function App() {
         >
           Learn React
         </a>
-        <a 
-          className="App-link"
-          href="https://authentication.azurestaticwebsites.net/.auth/login/aad?post_login_redirect_uri=cerulean-iguana-839.azurestaticwebsites.net"
-        >
-        Log in with Azure AD
-        </a>
       </header>
     </div>
   );
